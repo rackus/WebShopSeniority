@@ -28,7 +28,7 @@
     "firebase-tools": "^4.2.1",
     "g": "^2.0.1",
     "rxjs": "~6.2.0",
-    "rxjs-compat": "^6.3.2",
+    "rxjs-compat": "^6.3.3",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
