@@ -11,4 +11,8 @@ export class ProductService {
   create (product){
     return this.dbContext.list('/products').push(product);
   }
+
+  getAll(){
+    return this.dbContext.list('/products');
+  }
 }
